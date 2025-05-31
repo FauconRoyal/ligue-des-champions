@@ -1,0 +1,70 @@
+{
+  "qualification": [
+    {
+      "team1": "KF Egnatia",
+      "team2": "Borac",
+      "score": "2 - 1",
+      "date": "16 juillet 2024"
+    },
+    {
+      "team1": "Larne",
+      "team2": "Rigas FS",
+      "score": "0 - 4",
+      "date": "16 juillet 2024"
+    }
+    // Ajoute d'autres matchs ici
+  ],
+  "barrages": [
+    {
+      "team1": "Dinamo Zagreb",
+      "team2": "Qarabağ",
+      "score": "2 - 0",
+      "date": "20 août 2024"
+    },
+    {
+      "team1": "Red Star Belgrade",
+      "team2": "Bodø/Glimt",
+      "score": "2 - 0",
+      "date": "20 août 2024"
+    }
+    // Ajoute d'autres matchs ici
+  ],
+  "phase-ligue": [
+    {
+      "team1": "PSG",
+      "team2": "Arsenal",
+      "score": "0 - 1",
+      "date": "19 septembre 2024"
+    },
+    {
+      "team1": "PSG",
+      "team2": "Atletico Madrid",
+      "score": "1 - 2",
+      "date": "3 octobre 2024"
+    }
+    // Ajoute d'autres matchs ici
+  ],
+  "elimination": [
+    {
+      "team1": "PSG",
+      "team2": "RB Salzburg",
+      "score": "3 - 0",
+      "date": "18 février 2025"
+    },
+    {
+      "team1": "PSG",
+      "team2": "Manchester City",
+      "score": "4 - 2",
+      "date": "11 mars 2025"
+    }
+    // Ajoute d'autres matchs ici
+  ],
+  "finale": [
+    {
+      "team1": "Paris Saint-Germain",
+      "team2": "Inter Milan",
+      "score": "5 - 0",
+      "date": "31 mai 2025"
+    }
+  ]
+}
