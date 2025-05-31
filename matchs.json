@@ -12,7 +12,7 @@
       "score": "0 - 4",
       "date": "16 juillet 2024"
     }
-    // Ajoute d'autres matchs ici
+ 
   ],
   "barrages": [
     {
@@ -27,7 +27,7 @@
       "score": "2 - 0",
       "date": "20 août 2024"
     }
-    // Ajoute d'autres matchs ici
+
   ],
   "phase-ligue": [
     {
@@ -42,7 +42,7 @@
       "score": "1 - 2",
       "date": "3 octobre 2024"
     }
-    // Ajoute d'autres matchs ici
+
   ],
   "elimination": [
     {
@@ -57,7 +57,6 @@
       "score": "4 - 2",
       "date": "11 mars 2025"
     }
-    // Ajoute d'autres matchs ici
   ],
   "finale": [
     {
